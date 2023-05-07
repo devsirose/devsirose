@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sirose</h1>
 - 🌱 I’m currently studying at University of Science (HCMUS) 
+
 - 💬 Ask me about **C++, Java, Go**
 
 - 📫 How to reach me **dev.sirose@gmail.com**
